@@ -1,5 +1,5 @@
 # Hi, I'm Prerna 👋
-a CS student who gets way too excited about the space where design meets human behaviour. I build things that feel intuitive, the kind of interfaces where users don't have to think, they just flow. What drives me isn't the tech stack, it's the moment someone uses something I made and just gets it.
+a CS student who gets way too excited about the space where design meets human behaviour. I build things that feel intuitive, the kind of interfaces where users don't have to think, they flow. What drives me isn't the tech stack, it's the moment someone uses something I made and just gets it.
 
 ---
 ### What I'm up to
@@ -20,7 +20,7 @@ a CS student who gets way too excited about the space where design meets human b
 ### Let's connect
 I'm always up for a good conversation — whether it's about ideas, opportunities, or just something cool you're building.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/prerna-ishwar-a6a118282])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/prerna-ishwar-a6a118282/])
 [![Email](https://img.shields.io/badge/Email-Say%20hi-red?style=flat&logo=gmail)](mailto:prernaishwar8@gmail.com)
 
 
