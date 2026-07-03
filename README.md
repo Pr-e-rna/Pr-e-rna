@@ -1,4 +1,4 @@
-# Hi, I'm Violettt 👋
+# Hi, I'm Prerna 👋
 a CS student who gets way too excited about the space where design meets human behaviour. I build things that feel intuitive, the kind of interfaces where users don't have to think; they flow. What drives me isn't the tech stack, it's the moment someone uses something I made and gets it.
 
 ---
